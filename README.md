@@ -1,5 +1,5 @@
 
-# Hi — I am George Perdikaris
+# Hi, I am George Perdikaris
 
 Backend developer — building scalable FastAPI services and data-driven analytics.
 
