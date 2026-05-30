@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 # Hi, I am George Perdikaris
 
@@ -20,8 +23,10 @@ Welcome to my GitHub profile README. Backend Developer focused on Python, FastAP
 - **Call Management Dashboard** — https://github.com/perdgeorge/Call_Management_Dashboard — call records service and dashboard with note-taking and archiving features.
 - **Euroleague Insights** — https://github.com/StaVergos/euroleague-insights — analytics project for Euroleague basketball (data ingestion and statistical analysis).
 
-## Contact
-- Email: perdgeorge@gmail.com
-- LinkedIn: https://www.linkedin.com/in/georgeperdikaris/
+## My Stats 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=perdgeorge&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+## Contact
+- LinkedIn: https://www.linkedin.com/in/georgeperdikaris/
+- Email: perdgeorge@gmail.com
 ---
